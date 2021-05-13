@@ -1,0 +1,10 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}IFSP - Campus Cubatão - ADS371
+${licensePrefix}Linguagem de Programacao LP1I3 - Prof Tuler
+${licensePrefix}Trabalho Pratico 02
+${licensePrefix}Alunos: Grazielle da Silva Ribeiro CB3007316 e Josuel Joao dos Santos CB3005542
+<#if licenseLast??>
+${licenseLast}
+</#if>
